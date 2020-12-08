@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@codestates-cc/submission-npm": "^1.1.2",
+    "@mochajs/json-file-reporter": "^1.3.0",
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
     "express": "~4.16.1",
